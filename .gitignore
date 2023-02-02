@@ -1,0 +1,4 @@
+node_modules/
+prisma/migrations*
+prisma/dev.db*
+token.json

@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@prisma/client": "^4.9.0",
+    "discord.js": "^14.7.1",
+    "prisma": "^4.9.0"
+  },
+  "name": "foxutil",
+  "version": "1.0.0",
+  "description": "Util bot for the mori0 Discord",
+  "main": "app.js",
+  "author": "ryzetech",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "eslint": "^8.33.0"
+  }
+}
